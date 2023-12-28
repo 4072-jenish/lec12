@@ -29,80 +29,80 @@ main(){
 	struct student s2;
     struct student s3;
           
-          printf("......student 1......\n");
+          printf("......employe 1......\n");
     
-	printf("Enter student's Id :-");
+	printf("Enter employe's Id :-");
 	scanf("%d",&s1.id);
-    printf("Enter student's Name :-");
+    printf("Enter employe's Name :-");
 	scanf("%s",&s1.name);
-	printf("Enter student's age :-");
+	printf("Enter employe's age :-");
 	scanf("%d",&s1.age);
-	printf("Enter student's role :-");
+	printf("Enter employe's role :-");
 	scanf("%s",&s1.couser);
-	printf("Enter student's city :-");
+	printf("Enter employe's city :-");
 	scanf("%s",&s1.city);
-	printf("Enter student's experience :-");
+	printf("Enter employe's experience :-");
 	scanf("%d",&s1.std);
-	printf("Enter student's company :-");
+	printf("Enter employe's company :-");
 	scanf("%s",&s1.school);
 	
-	printf("Enter student's id is :-%d\n",s1.id);
-	printf("Enter student's Name is  :-%s\n",s1.name);
-	printf("Enter student's age is :-%d\n",s1.age);
-	printf("Enter student's role is :-%s\n",s1.couser);
-	printf("Enter student's city is :-%s\n",s1.city);
-	printf("Enter student's experience is :-%d\n",s1.std);
-	printf("Enter student's company is :-%s\n",s1.school);
+	printf("Enter employe's id is :-%d\n",s1.id);
+	printf("Enter employe's Name is  :-%s\n",s1.name);
+	printf("Enter employe's age is :-%d\n",s1.age);
+	printf("Enter employe's role is :-%s\n",s1.couser);
+	printf("Enter employe's city is :-%s\n",s1.city);
+	printf("Enter employe's experience is :-%d\n",s1.std);
+	printf("Enter employe's company is :-%s\n",s1.school);
 	
-	    printf("......student 2......\n");
+	    printf("......employe 2......\n");
 	
-	printf("Enter student's Id :-");
+	printf("Enter employe's Id :-");
 	scanf("%d",&s2.id);
-    printf("Enter student's Name :-");
+    printf("Enter employe's Name :-");
 	scanf("%s",&s2.name);
-	printf("Enter student's age :-");
+	printf("Enter employe's age :-");
 	scanf("%d",&s2.age);
-	printf("Enter student's role :-");
+	printf("Enter employe's role :-");
 	scanf("%s",&s2.couser);
-	printf("Enter student's city :-");
+	printf("Enter employe's city :-");
 	scanf("%s",&s2.city);
-	printf("Enter student's experience :-");
+	printf("Enter employe's experience :-");
 	scanf("%d",&s2.std);
-	printf("Enter student's company :-");
+	printf("Enter employe's company :-");
 	scanf("%s",&s2.school);
 	
-	printf("Enter student's id is :-%d\n",s2.id);
-	printf("Enter student's Name is  :-%s\n",s2.name);
-	printf("Enter student's age is :-%d\n",s2.age);
-	printf("Enter student's role is :-%s\n",s2.couser);
-	printf("Enter student's city is :-%s\n",s2.city);
-	printf("Enter student's experience is :-%d\n",s2.std);
-	printf("Enter student's company is :-%s\n",s2.school);
+	printf("Enter employe's id is :-%d\n",s2.id);
+	printf("Enter employe's Name is  :-%s\n",s2.name);
+	printf("Enter employe's age is :-%d\n",s2.age);
+	printf("Enter employe's role is :-%s\n",s2.couser);
+	printf("Enter employe's city is :-%s\n",s2.city);
+	printf("Enter employe's experience is :-%d\n",s2.std);
+	printf("Enter employe's company is :-%s\n",s2.school);
 	
-	      printf("......student 3......\n");
+	      printf("......employe 3......\n");
 	
-	printf("Enter student's Id :-");
+	printf("Enter employe's Id :-");
 	scanf("%d",&s3.id);
-    printf("Enter student's Name :-");
+    printf("Enter employe's Name :-");
 	scanf("%s",&s3.name);
-	printf("Enter student's age :-");
+	printf("Enter employe's age :-");
 	scanf("%d",&s3.age);
-	printf("Enter student's role :-");
+	printf("Enter employe's role :-");
 	scanf("%s",&s3.couser);
-	printf("Enter student's city :-");
+	printf("Enter employe's city :-");
 	scanf("%s",&s3.city);
-	printf("Enter student's company :-");
+	printf("Enter employe's company :-");
 	scanf("%d",&s3.std);
-	printf("Enter student's school :-");
+	printf("Enter employe's school :-");
 	scanf("%s",&s3.school);
 	
-	printf("Enter student's id is :- %d\n",s3.id);
-	printf("Enter student's Name is  :- %s\n",s3.name);
-	printf("Enter student's age is :- %d\n",s3.age);
-	printf("Enter student's role is :-%s\n",s3.couser);
-	printf("Enter student's city is :-%s\n",s3.city);
-	printf("Enter student's experience is :-%d\n",s3.std);
-	printf("Enter student's company is :-%s\n",s3.school);
+	printf("Enter employe's id is :- %d\n",s3.id);
+	printf("Enter employe's Name is  :- %s\n",s3.name);
+	printf("Enter employe's age is :- %d\n",s3.age);
+	printf("Enter employe's role is :-%s\n",s3.couser);
+	printf("Enter employe's city is :-%s\n",s3.city);
+	printf("Enter employe's experience is :-%d\n",s3.std);
+	printf("Enter employe's company is :-%s\n",s3.school);
 	
 	
 }
